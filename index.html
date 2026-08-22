@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A concise, visual daily investment-banking news brief with figures and beginner takeaways.">
+  <title>Daily Investment Banking Brief</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <div>
+        <p class="eyebrow">07:00 UK DAILY BRIEF</p>
+        <h1>Investment Banking, at a glance</h1>
+        <p class="dek">Material deals, financing and market signals—reduced to figures, stages and practical takeaways.</p>
+      </div>
+      <div class="header-mark" aria-hidden="true"><span></span><span></span><span></span></div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="edition-bar" aria-labelledby="edition-title">
+      <div>
+        <p class="section-label">Edition</p>
+        <h2 id="edition-title">Loading…</h2>
+      </div>
+      <label class="date-control">Browse archive
+        <select id="edition-select" aria-label="Choose a daily edition"></select>
+      </label>
+    </section>
+
+    <section aria-labelledby="snapshot-heading">
+      <div class="section-heading">
+        <div><p class="section-label">Numbers first</p><h2 id="snapshot-heading">At a glance</h2></div>
+        <p id="snapshot-note" class="section-note"></p>
+      </div>
+      <div id="snapshot-grid" class="snapshot-grid"></div>
+    </section>
+
+    <section class="mix-panel" aria-labelledby="mix-heading">
+      <div class="section-heading compact">
+        <div><p class="section-label">Simple figure</p><h2 id="mix-heading">Story mix</h2></div>
+        <p class="section-note">Number of stories by topic</p>
+      </div>
+      <div id="mix-bar" class="mix-bar" role="img" aria-label="Story category distribution"></div>
+      <div id="mix-legend" class="mix-legend"></div>
+    </section>
+
+    <section aria-labelledby="table-heading">
+      <div class="section-heading">
+        <div><p class="section-label">Fast comparison</p><h2 id="table-heading">What happened—and what to do with it</h2></div>
+        <p class="section-note">Tap a source to verify the underlying announcement or report.</p>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Story</th><th>Key number</th><th>Stage</th><th>Beginner takeaway</th><th>Sources</th></tr></thead>
+          <tbody id="stories-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <p class="disclaimer">Educational information only—not personalised investment advice. Deal values and stages are kept separate where aggregation would mislead.</p>
+  </main>
+
+  <footer><div class="shell">Daily Investment Banking Brief · Archive begins 18 August 2026</div></footer>
+  <script src="script.js" defer></script>
+</body>
+</html>
