@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-08-23",
+    "displayDate": "23 August 2026",
+    "snapshotNote": "Signed M&A, completed acquisition funding and sovereign restructuring principal are separate measures and must not be added together.",
+    "snapshot": [
+      {
+        "label": "Signed M&A under litigation",
+        "value": "$110bn",
+        "note": "Paramount–Warner Bros.; preliminary California settlement talks are reported for Monday."
+      },
+      {
+        "label": "Acquisition financing secured",
+        "value": "$5.73bn",
+        "note": "ICE's $3.73bn notes plus $2.0bn term facility; separate revolver capacity is excluded."
+      },
+      {
+        "label": "Sovereign bond restructuring",
+        "value": "$1bn",
+        "note": "Ethiopia's defaulted 2024 Eurobond; implementation remains pending."
+      }
+    ],
+    "stories": [
+      {
+        "category": "M&A",
+        "headline": "Paramount and California may open settlement talks",
+        "what": "Paramount and California officials are reportedly due to discuss a possible settlement path for the state's lawsuit challenging the Warner Bros. Discovery acquisition.",
+        "number": "$110bn signed deal; $7m daily delay fee after 30 September",
+        "stage": "Signed; litigation ongoing; preliminary talks reported",
+        "beginner": "A settlement discussion is not approval or completion, so avoid treating the merger spread as guaranteed.",
+        "tone": "watch",
+        "sources": [
+          {
+            "label": "Reuters",
+            "url": "https://www.reuters.com/legal/litigation/paramount-california-hold-preliminary-talks-warner-bros-deal-nyt-reports-2026-08-22/"
+          }
+        ]
+      },
+      {
+        "category": "Debt",
+        "headline": "ICE replaces its MarketAxess acquisition bridge",
+        "what": "Intercontinental Exchange funded and committed the planned purchase with senior notes and a delayed-draw term loan, allowing its temporary bridge commitments to fall to zero.",
+        "number": "$3.73bn notes + $2.0bn term loan; $6.2bn bridge cancelled",
+        "stage": "Financing secured; acquisition still pending",
+        "beginner": "Replacing a bridge loan reduces financing uncertainty, but the buyer still takes on substantial debt and completion risk.",
+        "tone": "simple",
+        "sources": [
+          {
+            "label": "ICE SEC filing",
+            "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526359930/d369319d8k.htm"
+          }
+        ]
+      },
+      {
+        "category": "Restructuring",
+        "headline": "Official creditors clear Ethiopia's bond workout",
+        "what": "Ethiopia can proceed with implementing agreed restructuring terms after its official creditor committee found them comparable with bilateral debt relief.",
+        "number": "$1bn old bond; $880m new bond; 12% principal haircut",
+        "stage": "Official-creditor clearance; documentation and exchange pending",
+        "beginner": "Sovereign restructurings can still change before settlement, and the warrant makes the final recovery harder to value.",
+        "tone": "avoid",
+        "sources": [
+          {
+            "label": "Ethiopia Ministry of Finance",
+            "url": "https://www.mofed.gov.et/blog/ethiopia-announces-favourable-comparability-of-treatment-assessment-of-official-creditor-committee-regarding-agreed-terms-of-eurobond-restructuring/"
+          },
+          {
+            "label": "Reuters",
+            "url": "https://www.reuters.com/world/africa/official-creditors-back-ethiopia-bond-restructuring-flag-risks-warrant-2026-08-21/"
+          }
+        ]
+      },
+      {
+        "category": "Market",
+        "headline": "Bank funding for private credit slows sharply",
+        "what": "Preliminary data show traditional banks becoming more cautious about lending to non-bank finance companies, an important funding source for private-credit vehicles.",
+        "number": "3% quarterly growth vs 9% a year earlier; top-six banks +1.5%",
+        "stage": "Financing-condition signal; not a transaction",
+        "beginner": "Tighter fund-level credit can reduce private lenders' capacity and raise borrowing costs for leveraged companies.",
+        "tone": "watch",
+        "sources": [
+          {
+            "label": "Reuters Breakingviews",
+            "url": "https://www.reuters.com/commentary/breakingviews/shadow-banks-enter-newly-uncertain-era-2026-08-21/"
+          }
+        ]
+      },
+      {
+        "category": "Debt",
+        "headline": "Universal Health Services completes secured notes",
+        "what": "The hospital operator completed two senior secured bond tranches with maturities in 2031 and 2036.",
+        "number": "$1.1bn total; 5.50% and 6.00% coupons",
+        "stage": "Public offering completed",
+        "beginner": "Secured status helps creditors, but longer maturities still carry rate risk and healthcare-sector credit risk.",
+        "tone": "simple",
+        "sources": [
+          {
+            "label": "UHS SEC filing",
+            "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526359953/d329184d8k.htm"
+          }
+        ]
+      },
+      {
+        "category": "M&A",
+        "headline": "Waterland enters early Gamma takeover talks",
+        "what": "Gamma Communications confirmed preliminary discussions with Waterland, with Giacom acting alongside the private-equity firm and expected to acquire selected divisions if a deal proceeds.",
+        "number": "Shares +7.3%; bid deadline 18 September 2026",
+        "stage": "Early talks; no firm offer",
+        "beginner": "A share-price jump can disappear if no bid is made, so this is not a simple low-risk takeover trade.",
+        "tone": "avoid",
+        "sources": [
+          {
+            "label": "Gamma RNS",
+            "url": "https://www.londonstockexchange.com/news-article/GAMA/response-to-press-speculation/17750967"
+          },
+          {
+            "label": "Reuters",
+            "url": "https://www.reuters.com/legal/transactional/uks-gamma-communications-talks-with-pe-firm-waterland-over-possible-takeover-2026-08-21/"
+          }
+        ]
+      },
+      {
+        "category": "Market",
+        "headline": "SEC alleges merger-tip insider trading",
+        "what": "The regulator charged a former Bank of America investment banker and an investor over alleged trading before South Jersey Industries' 2022 sale; both defendants deny wrongdoing.",
+        "number": "$18.5m alleged profit on an $8.1bn buyout",
+        "stage": "Civil charges filed; allegations contested",
+        "beginner": "Trading on deal rumours or confidential information can bring severe legal risk; public confirmation and fundamentals matter.",
+        "tone": "avoid",
+        "sources": [
+          {
+            "label": "Reuters",
+            "url": "https://www.reuters.com/legal/government/sec-charges-former-bank-america-investment-banker-with-insider-trading-2026-08-21/"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
     "date": "2026-08-22",
     "displayDate": "22 August 2026",
     "snapshotNote": "Signed, completed and pipeline values are labelled separately; they should not be added together.",
