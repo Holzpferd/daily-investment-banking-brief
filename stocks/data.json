@@ -1,0 +1,54 @@
+[
+  {
+    "date": "23 August 2026",
+    "price_date": "21 August 2026",
+    "stocks": [
+      {
+        "company": "Adobe",
+        "ticker": "ADBE",
+        "price": "$275.30",
+        "value": "15.8× trailing earnings; a major discount to its historical valuation.",
+        "thesis": "Recurring creative-software revenue, high margins and strong cash generation.",
+        "risk": "Generative-AI competitors weaken pricing power.",
+        "entry": "$255–280"
+      },
+      {
+        "company": "Alphabet",
+        "ticker": "GOOGL",
+        "price": "$344.82",
+        "value": "17.3× earnings, modest relative to its profitability and growth.",
+        "thesis": "Search, YouTube, Cloud and AI infrastructure.",
+        "risk": "AI disruption to search and antitrust intervention.",
+        "entry": "$320–350"
+      },
+      {
+        "company": "Qualcomm",
+        "ticker": "QCOM",
+        "price": "$160.75",
+        "value": "18.4× earnings, with diversification not fully reflected.",
+        "thesis": "Patent licensing plus automotive and IoT growth.",
+        "risk": "Apple modem losses and handset cyclicality.",
+        "entry": "$145–160"
+      },
+      {
+        "company": "UPS",
+        "ticker": "UPS",
+        "price": "$102.01",
+        "value": "Depressed valuation after weak volumes and restructuring costs.",
+        "thesis": "Difficult-to-replicate logistics network and margin-recovery potential.",
+        "risk": "Prolonged volume weakness and labour costs.",
+        "entry": "$90–102"
+      },
+      {
+        "company": "CVS Health",
+        "ticker": "CVS",
+        "price": "$93.02",
+        "value": "About 11.6× midpoint 2026 adjusted EPS guidance.",
+        "thesis": "Integrated insurance, pharmacy and benefits platform.",
+        "risk": "Medical-cost inflation, debt and regulation.",
+        "entry": "$82–92"
+      }
+    ],
+    "note": "US markets were closed when this edition was prepared; prices are from 21 August 2026."
+  }
+]
