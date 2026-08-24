@@ -1,5 +1,57 @@
 [
   {
+    "date": "24 August 2026",
+    "price_date": "21 August 2026",
+    "stocks": [
+      {
+        "company": "Alphabet",
+        "ticker": "GOOGL",
+        "price": "$344.82",
+        "value": "17.3× trailing earnings; Q2 Google Services revenue grew 15%, while trailing-12-month free cash flow was $53.3bn despite elevated AI investment.",
+        "thesis": "Search, YouTube and Cloud form a highly profitable ecosystem; Cloud revenue grew 82% in Q2 and the company retains substantial liquidity.",
+        "risk": "AI could weaken search economics; antitrust remedies and heavy infrastructure spending may reduce returns.",
+        "entry": "$320–350, provided Search remains resilient and AI capital spending does not structurally depress free cash flow."
+      },
+      {
+        "company": "Adobe",
+        "ticker": "ADBE",
+        "price": "$275.30",
+        "value": "15.8× trailing earnings, a compressed multiple for a high-margin subscription software business; Q2 revenue grew 13% to $6.62bn.",
+        "thesis": "Creative Cloud, Document Cloud and embedded AI workflows support recurring revenue, pricing power and durable cash generation.",
+        "risk": "Generative-AI competitors may commoditise content creation and weaken seat growth or pricing.",
+        "entry": "$255–280, with a margin of safety only if recurring-revenue growth remains durable."
+      },
+      {
+        "company": "Qualcomm",
+        "ticker": "QCOM",
+        "price": "$160.75",
+        "value": "18.4× trailing earnings; fiscal-Q3 automotive and IoT revenue grew 28% combined, while the licensing business remains strongly cash-generative.",
+        "thesis": "Patent royalties fund diversification into automotive, industrial IoT, edge AI and data-centre computing.",
+        "risk": "Apple modem insourcing, handset cyclicality and ambitious diversification investments could pressure earnings.",
+        "entry": "Prefer $145–160, or wait for evidence that non-handset growth offsets Apple-related revenue losses."
+      },
+      {
+        "company": "CVS Health",
+        "ticker": "CVS",
+        "price": "$93.02",
+        "value": "About 11.6× the midpoint of raised 2026 adjusted-EPS guidance of $7.90–$8.10; first-half operating cash flow was $10.6bn.",
+        "thesis": "The integrated insurance, pharmacy and benefits platform offers scale, recurring healthcare demand and recovery potential.",
+        "risk": "Medical-cost inflation, regulation and leverage could prevent insurance-margin recovery.",
+        "entry": "Below $92, or no more than roughly 11× sustainable adjusted earnings after confirming margin improvement."
+      },
+      {
+        "company": "UPS",
+        "ticker": "UPS",
+        "price": "$102.01",
+        "value": "19.0× trailing earnings after depressed results; Q2 adjusted operating profit was $2.1bn and the Amazon volume reduction creates a possible earnings-recovery setup.",
+        "thesis": "A difficult-to-replicate global network can regain operating leverage as restructuring and network automation mature.",
+        "risk": "Weak parcel demand, labour costs and failure to rebuild volume or margins may make the apparent recovery value illusory.",
+        "entry": "Prefer $90–100, or wait until two consecutive quarters show sustainable margin improvement."
+      }
+    ],
+    "note": "Alphabet moves to rank 1 on the combination of a 17.3× earnings multiple, stronger recent operating growth and greater balance-sheet resilience; the other four names remain in the shortlist. US markets had not reopened since the prior edition, so prices are unchanged from 21 August. This is a research shortlist, not personalised financial advice."
+  },
+  {
     "date": "23 August 2026",
     "price_date": "21 August 2026",
     "stocks": [
