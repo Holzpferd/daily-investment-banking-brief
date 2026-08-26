@@ -1,5 +1,57 @@
 [
   {
+    "date": "26 August 2026",
+    "price_date": "25 August 2026",
+    "stocks": [
+      {
+        "company": "Alphabet",
+        "ticker": "GOOGL",
+        "price": "$346.96",
+        "value": "17.4× trailing earnings; Q2 Google Services revenue grew 15% and trailing-12-month free cash flow was $53.3bn despite unusually heavy AI capital expenditure.",
+        "thesis": "Search, YouTube and Cloud form a highly profitable ecosystem; Q2 Cloud revenue grew 82%, providing a second major earnings engine.",
+        "risk": "AI could weaken search economics, while antitrust remedies and infrastructure spending may reduce returns.",
+        "entry": "$320–350, provided Search remains resilient and AI investment does not structurally depress free cash flow."
+      },
+      {
+        "company": "Accenture",
+        "ticker": "ACN",
+        "price": "$186.93",
+        "value": "14.9× trailing earnings and roughly a 9.4–10.0% free-cash-flow yield on management's $10.8–11.5bn FY2026 outlook.",
+        "thesis": "Deep enterprise relationships, recurring managed-services work and broad AI, cloud and cybersecurity capabilities support durable demand and strong cash conversion.",
+        "risk": "AI automation, weak discretionary consulting demand, federal-contract pressure or acquisition execution could slow growth.",
+        "entry": "$175–195, provided free cash flow remains above $10bn and bookings stabilise."
+      },
+      {
+        "company": "Adobe",
+        "ticker": "ADBE",
+        "price": "$273.92",
+        "value": "15.7× trailing earnings, a compressed multiple for a high-margin subscription software business; Q2 revenue grew 13% to $6.62bn.",
+        "thesis": "Creative Cloud, Document Cloud and embedded AI workflows support recurring revenue, pricing power and durable cash generation.",
+        "risk": "Generative-AI competitors may commoditise content creation and weaken seat growth or pricing.",
+        "entry": "$255–280, with a margin of safety only if recurring-revenue growth remains durable."
+      },
+      {
+        "company": "Qualcomm",
+        "ticker": "QCOM",
+        "price": "$160.56",
+        "value": "18.3× trailing earnings; fiscal-Q3 automotive and IoT revenue grew 28% combined, while patent licensing remains strongly cash-generative.",
+        "thesis": "Patent royalties fund diversification into automotive, industrial IoT, edge AI and data-centre computing.",
+        "risk": "Apple modem insourcing, handset cyclicality and ambitious diversification investments could pressure earnings.",
+        "entry": "Prefer $145–160; above $160, wait for evidence that non-handset growth offsets Apple-related revenue losses."
+      },
+      {
+        "company": "CVS Health",
+        "ticker": "CVS",
+        "price": "$92.90",
+        "value": "About 11.6× the midpoint of raised 2026 adjusted-EPS guidance of $7.90–$8.10; first-half operating cash flow was $10.6bn.",
+        "thesis": "The integrated insurance, pharmacy and benefits platform offers scale, recurring healthcare demand and recovery potential.",
+        "risk": "Medical-cost inflation, regulation and leverage could prevent insurance-margin recovery.",
+        "entry": "Prefer below $92, or no more than roughly 11× sustainable adjusted earnings after confirming margin improvement."
+      }
+    ],
+    "note": "No material lineup change. Alphabet remains top-ranked; Adobe's 0.8% decline modestly improved its valuation, while Qualcomm's 1.3% rise moved it just above the preferred $160 entry ceiling. Accenture's announced McCoy acquisition is strategically consistent but not large enough to change the thesis. Prices are 25 August 2026 US closes in USD. This is a research shortlist, not personalised financial advice."
+  },
+  {
     "date": "25 August 2026",
     "price_date": "24 August 2026",
     "stocks": [
